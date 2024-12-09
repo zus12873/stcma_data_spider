@@ -1,0 +1,7 @@
+*.ipynb
+*.json
+*.csv
+.env
+.DS_Store
+__pycache__/
+venv
